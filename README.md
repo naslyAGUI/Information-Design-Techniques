@@ -1,2 +1,4 @@
 # Information-Design-Techniques
-video game
+Video game
+
+Here is the video game: https://naslygames.itch.io/game-ai-and-mechanics
